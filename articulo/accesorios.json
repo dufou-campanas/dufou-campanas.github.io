@@ -1,0 +1,14 @@
+[
+  {
+    "modelo": "Pmovil",
+    "titulo": "Persiana movil para ventilacion",
+    "banner": "/img/maraldi/car/Pmovil/1.jpg",
+    "callback": "/accesorios",
+    "descripcion": "<ul><li>Troquelable a diametro 4 o 6 Pugadas</li><li>Colores: BLANCO</li></ul>",
+    "imagenes": [
+      "/img/accesorios/car/Pmovil/1.jpg",
+      "/img/accesorios/car/Pmovil/2.jpg"
+    ],
+    "croquis": "/img/maraldi/det/Pmovil.svg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Apsis",
+    "imagen": "img/maraldi/Apsis.png",
+    "url": "./articulo/article?brand=maraldi&mod=Apsis"
+  },
+  {
+    "nombre": "Bull",
+    "imagen": "img/maraldi/Bull.jpg",
+    "url": "/articulo/article?brand=maraldi&mod=Bull"
+  },
+  {
+    "nombre": "Cucinela",
+    "imagen": "img/maraldi/Cucinela.png",
+    "url": "/articulo/article?brand=maraldi&mod=Cucinela"
+  },
+  {
+    "nombre": "DC",
+    "imagen": "img/maraldi/DC.png",
+    "url": "/articulo/article?brand=maraldi&mod=DC"
+  },
+  {
+    "nombre": "DC - Cristal",
+    "imagen": "img/maraldi/DC_Cristal.png",
+    "url": "/articulo/article?brand=maraldi&mod=DC_Cristal"
+  },
+  {
+    "nombre": "Folk",
+    "imagen": "img/maraldi/Folk.png",
+    "url": "/articulo/article?brand=maraldi&mod=Folk"
+  },
+  {
+    "nombre": "Merlina",
+    "imagen": "img/maraldi/Merlina.png",
+    "url": "/articulo/article?brand=maraldi&mod=Merlina"
+  },
+  {
+    "nombre": "M.I",
+    "imagen": "img/maraldi/MI.png",
+    "url": "/articulo/article?brand=maraldi&mod=MI"
+  },
+  {
+    "nombre": "Slim - Slide",
+    "imagen": "img/maraldi/SLIDE.png",
+    "url": "/articulo/article?brand=maraldi&mod=SLIDE"
+  },
+  {
+    "nombre": "SLIM",
+    "imagen": "img/maraldi/SLIM.png",
+    "url": "/articulo/article?brand=maraldi&mod=SLIM"
+  },
+  {
+    "nombre": "SLIM - Black",
+    "imagen": "img/maraldi/SLIM_Black.jpg",
+    "url": "/articulo/article?brand=maraldi&mod=Slim_Black"
+  },
+  {
+    "nombre": "SLIM - Cristal",
+    "imagen": "img/maraldi/SLIM_Cristal.png",
+    "url": "/articulo/article?brand=maraldi&mod=SLIM_Cristal"
+  },
+  {
+    "nombre": "Slim Slide - Cristal",
+    "imagen": "img/maraldi/SLIM_SLIDE_Cristal.png",
+    "url": "/articulo/article?brand=maraldi&mod=SLIM_SLIDE_Cristal"
+  },
+  {
+    "nombre": "TUM",
+    "imagen": "img/maraldi/TUM.jpg",
+    "url": "/articulo/article?brand=maraldi&mod=Tum"
+  },
+  {
+    "nombre": "Merlina",
+    "imagen": "img/maraldi/merlina.jpeg",
+    "url": "/articulo/article?brand=maraldi&mod=Merlina"
+  },
+  {
+    "nombre": "Slim",
+    "imagen": "img/maraldi/slim.jpeg",
+    "url": "/articulo/article?brand=maraldi&mod=slim"
+  }
+]

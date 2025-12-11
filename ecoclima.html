@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Productos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Ecoclima</h1>
+  <div id="galeria"></div>
+
+  <script>
+    fetch("ecoclima.json")
+      .then(res => res.json())
+      .then(productos => {
+        const galeria = document.getElementById("galeria");
+        productos.forEach(p => {
+          const item = document.createElement("a");
+          item.href = p.url;
+          item.className = "producto";
+          item.innerHTML = `
+            <img src="${p.imagen}" alt="${p.nombre}">
+            <span>${p.nombre}</span>
+          `;
+          galeria.appendChild(item);
+        });
+      });
+  </script>
+
+
+
+<a href="https://wa.me/5491138220688?text=Hola!" 
+   target="_blank" 
+   class="btn-whatsapp" 
+   title="Chatear por WhatsApp">
+  <img src="/img/Generic/wpp.svg" alt="WhatsApp">
+</a>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+[
+  {
+    "modelo": "filtro_bast",
+    "titulo": "filtro bastonado",
+    "banner": "/img/accesorios_gastro/filtro_bast.jpeg",
+    "callback": "/accesorios_gastro",
+    "imagenes": [
+      "/img/accesorios_gastro/filtro_bast.jpeg"
+    ],
+    "descripcion": "<ul><li>Disponible en 60x60 o 50x50. otras medidas solo por pedido</li><li>Material: Acero Inox. o Galvanizado</li></ul>"
+  },
+  {
+    "modelo": "filtro_mesh",
+    "titulo": "filtro mallado",
+    "banner": "/img/accesorios_gastro/filtro_mesh.jpeg",
+    "callback": "/accesorios_gastro",
+    "imagenes": [
+      "/img/accesorios_gastro/filtro_mesh.jpeg"
+    ],
+    "descripcion": "<ul><li>Disponible en 60x60 o 50x50. otras medidas solo por pedido</li><li>Material: Galvanizado</li></ul>"
+  }
+]

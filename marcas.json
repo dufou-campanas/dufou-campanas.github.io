@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "TST",
+    "imagen": "img/logos/tst.png",
+    "url": "./tst"
+  },
+  {
+    "nombre": "Maraldi",
+    "imagen": "img/logos/maraldi.png",
+    "url": "./maraldi"
+  },
+  {
+    "nombre": "Vidrios templados decorativos",
+    "imagen": "img/logos/kglass.jpeg",
+    "url": "./kglass"
+  },
+  {
+    "nombre": "Ecoclima",
+    "imagen": "img/logos/ecoclima.png",
+    "url": "./ecoclima"
+  },
+  {
+    "nombre": "Accesorios",
+    "imagen": "img/dufou.png",
+    "url": "./accesorios"
+  },
+  {
+    "nombre": "Accesorios Gastronomicos",
+    "imagen": "img/logos/accesorios_gastro.jpeg",
+    "url": "./accesorios_gastro"
+  }
+]

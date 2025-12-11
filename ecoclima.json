@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Boreas",
+    "imagen": "img/ecoclima/Boreas.png",
+    "url": "./articulo/ecoclima/Boreas"
+  },
+  {
+    "nombre": "Bise",
+    "imagen": "img/ecoclima/bise.png",
+    "url": "./articulo/ecoclima/bise"
+  },
+  {
+    "nombre": "Cefiro",
+    "imagen": "img/ecoclima/cefiro.png",
+    "url": "./articulo/ecoclima/cefiro"
+  },
+  {
+    "nombre": "Cristal Curvo - Touch",
+    "imagen": "img/ecoclima/curva_touch.png",
+    "url": "./articulo/ecoclima/curva_touch"
+  },
+  {
+    "nombre": "Diamante",
+    "imagen": "img/ecoclima/diamante.png",
+    "url": "./articulo/ecoclima/diamante"
+  },
+  {
+    "nombre": "ECO",
+    "imagen": "img/ecoclima/eco.png",
+    "url": "./articulo/ecoclima/eco"
+  },
+  {
+    "nombre": "Narrow",
+    "imagen": "img/ecoclima/narrow.png",
+    "url": "./articulo/ecoclima/narrow"
+  },
+  {
+    "nombre": "Cristal Recto - touch",
+    "imagen": "img/ecoclima/recta_touch.png",
+    "url": "./articulo/ecoclima/recta_touch"
+  },
+  {
+    "nombre": "Slim",
+    "imagen": "img/ecoclima/slim.png",
+    "url": "./articulo/ecoclima/slim"
+  },
+  {
+    "nombre": "Slim - Touch",
+    "imagen": "img/ecoclima/slim_touch.png",
+    "url": "./articulo/ecoclima/slim_touch"
+  }
+]

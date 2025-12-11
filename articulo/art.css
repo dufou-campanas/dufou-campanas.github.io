@@ -1,0 +1,201 @@
+body {
+  background-color: #111;
+  color: #eee;
+  font-family: "Segoe UI", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* --- Banner superior --- */
+.banner {
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: end;
+  justify-content: start;
+  padding: 1.5rem;
+  box-shadow: inset 0 -80px 100px #0009;
+}
+
+.banner h1 {
+  margin: 0;
+  color: #fff;
+  font-size: 2rem;
+  text-shadow: 0 0 10px #000;
+}
+
+/* --- Cuerpo del producto --- */
+.producto-detalle {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.producto-detalle img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #0006;
+}
+
+.descripcion {
+  margin-top: 1rem;
+  line-height: 1.6;
+  font-size: 1.1rem;
+  color: #ccc;
+}
+
+.precio {
+  font-size: 1.4rem;
+  margin-top: 1rem;
+  color: #25d366;
+  font-weight: bold;
+}
+
+/* --- Footer --- */
+footer {
+  text-align: center;
+  color: #777;
+  padding: 2rem 0;
+  font-size: 0.9rem;
+}
+
+footer a {
+  color: #999;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #25d366;
+}
+
+.especificaciones {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  background: #000;
+  color: #fff;
+  padding: 2rem 1rem;
+  border-top: 1px solid #222;
+  border-bottom: 1px solid #222;
+  font-family: 'Poppins', sans-serif;
+  gap: 2rem;
+  border-radius: 8px;
+}
+
+.especificaciones .info {
+  flex: 1 1 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  min-width: 250px;
+}
+
+.especificaciones .item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  border-bottom: 1px solid #222;
+  padding-bottom: 0.8rem;
+  width: 100%;
+  max-width: 400px;
+}
+
+.especificaciones .item:last-child {
+  border-bottom: none;
+}
+
+.especificaciones .item img {
+  width: 30px;
+  height: 30px;
+}
+
+.especificaciones .item span {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.especificaciones .croquis {
+  flex: 1 1 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.especificaciones .croquis img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  opacity: 0.9;
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  /* object-fit: cover; */
+  display: block;
+  max-height: 250px;
+}
+
+.whatsapp-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  background-color: #25D366;
+  color: white;
+  font-weight: 600;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  padding: 0.8rem 1.2rem;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.2s ease;
+  text-decoration: none;
+}
+
+.whatsapp-btn img {
+  width: 40px;
+  height: 40px;
+}
+
+.whatsapp-btn:hover {
+  transform: scale(1.05);
+}
+/* 
+.especificaciones {
+  background: #000;
+  color: #fff;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+}
+
+.especificaciones .item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.8rem;
+  width: 100%;
+  max-width: 400px;
+}
+
+.especificaciones .item:last-child {
+  border-bottom: none;
+}
+
+.especificaciones img {
+  width: 24px;
+  height: 24px;
+}
+
+.especificaciones span {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+} */

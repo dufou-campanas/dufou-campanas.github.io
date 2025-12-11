@@ -1,0 +1,233 @@
+[
+  {
+    "modelo": "Slim_Slide",
+    "titulo": "Campana SLIM Slide",
+    "banner": "/img/maraldi/det/Slim_Slide.png",
+    "callback": "/maraldi",
+    "imagenes": [
+      "/img/maraldi/det/Slim_Slide.png"
+    ],
+    "croquis": "/img/maraldi/Slim_Slide.svg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto": "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "Folk",
+    "titulo": "Campana Folk",
+    "banner": "/img/maraldi/det/Folk.png",
+    "callback": "/maraldi",
+    "imagenes": [
+      "/img/maraldi/det/Folk.png"
+    ],
+    "croquis": "/img/maraldi/Folk.svg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto": "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "Merlina",
+    "titulo": "Campana Merlina",
+    "banner": "/img/maraldi/det/Merlina.png",
+    "callback": "/maraldi",
+     "descripcion": "<p>Disponible en vidrio transparente o negro</p>",
+    "imagenes": [
+      "/img/maraldi/det/Merlina.png"
+    ],
+    "croquis": "/img/maraldi/Merlina.svg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto": "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "Slim_Black",
+    "titulo": "Campana SLIM BLACK",
+    "banner": "/img/maraldi/Slim_Black.jpg",
+    "callback": "/maraldi",
+     "descripcion": "<p>Modelo especial con acabado mate microtexturado</p>",
+    "imagenes": [
+      "/img/maraldi/Slim_Black.jpg"
+    ],
+    "croquis": "/img/maraldi/det/Slim_Black.svg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto": "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "MI",
+    "titulo": "Campana M.I",
+    "banner": "/img/maraldi/det/MI.png",
+    "callback": "/maraldi",
+    "imagenes": [
+      "/img/maraldi/det/MI.png"
+    ],
+    "croquis": "/img/maraldi/MI.jpg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto": "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "Slim",
+    "titulo": "Campana Slim",
+    "banner": "/img/maraldi/det/Slim.png",
+    "callback": "/maraldi",
+    "imagenes": [
+      "/img/maraldi/car/Slim/1.png"
+    ],
+    "croquis": "/img/maraldi/det/Slim.svg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto": "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "Bull",
+    "titulo": "Campana Bull",
+    "banner": "/img/maraldi/det/Bull.png",
+    "callback": "/maraldi",
+    "imagenes": [
+      "/img/maraldi/det/Bull.png"
+    ],
+    "croquis": "/img/maraldi/Bull.jpg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto": "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "Tum",
+    "titulo": "Campana Tum",
+    "banner": "/img/maraldi/det/Tum.png",
+    "callback": "/maraldi",
+    "imagenes": [
+      "/img/maraldi/car/Tum/1.jpg",
+      "/img/maraldi/car/Tum/2.jpg"
+    ],
+    "croquis": "/img/maraldi/det/Tum.svg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto": "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "Cucinela",
+    "titulo": "Campana Cucinela",
+    "banner": "/img/maraldi/car/Cucinela/1.png",
+    "callback": "/maraldi",
+    "imagenes": [
+      "/img/maraldi/car/Cucinela/1.png",
+      "/img/maraldi/car/Cucinela/2.png",
+      "/img/maraldi/car/Cucinela/3.jpg"
+    ],
+    "croquis": "/img/maraldi/det/Cucinela.svg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto": "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "DC_Cristal",
+    "titulo": "Campana DC Cristal",
+    "banner": "/img/maraldi/det/DC_Cristal.png",
+    "callback": "/maraldi",
+    "descripcion": "<p>Disponible en 60 y 90cm de ancho</p><p>Colores de vidrio: <span style=\"color: #ff0000\">Rojo</span>, <span style=\"color: #00ff00\">Verde</span> o Negro</p>",
+    "imagenes": [
+      "/img/maraldi/car/DC_Cristal/1.png",
+      "/img/maraldi/car/DC_Cristal/2.png",
+      "/img/maraldi/car/DC_Cristal/3.png"
+    ],
+    "croquis": "/img/maraldi/det/DC_Cristal.svg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto": "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "SLIM_Cristal",
+    "titulo": "Campana SLIM Cristal",
+    "banner": "/img/maraldi/det/SLIM_Cristal.png",
+    "callback": "/maraldi",
+    "descripcion": "<p>Disponible en 60 y 90cm de ancho</p><p>Colores de vidrio: <span style=\"color: #ff0000\">Rojo</span>, <span style=\"color: #00ff00\">Verde</span> o Negro</p>",
+    "imagenes": [
+      "/img/maraldi/car/SLIM_Cristal/1.png",
+      "/img/maraldi/car/SLIM_Cristal/2.png",
+      "/img/maraldi/car/SLIM_Cristal/3.png"
+    ],
+    "croquis": "/img/maraldi/det/SLIM_Cristal.svg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto":  "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "DC",
+    "titulo": "Campana DC",
+    "callback": "/maraldi",
+    "descripcion": "",
+    "imagenes": [
+      "/img/maraldi/car/DC/1.png"
+    ],
+    "croquis": "/img/maraldi/det/DC.svg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto":  "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  },
+  {
+    "modelo": "Apsis",
+    "titulo": "Campana Apsis",
+    "callback": "/maraldi",
+    "imagenes": [
+      "/img/maraldi/car/Apsis/1.png"
+    ],
+    "croquis": "/img/maraldi/det/Apsis.svg",
+    "especificaciones": [
+      {"icono": "/img/Generic/touch.svg", "texto": "Comando pulsante"},
+      {"icono": "/img/Generic/led.svg", "texto": "Iluminación LED"},
+      {"icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor"},
+      {"icono": "/img/Generic/velo.png", "texto": "Extraccion de 1000 m³/h"},
+      {"icono": "/img/Generic/warr.png", "texto": "2 años de garantía"}
+    ]
+  }
+]

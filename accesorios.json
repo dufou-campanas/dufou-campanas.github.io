@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "Rejilla fija - Blanca",
+    "imagen": "img/accesorios/Pfija.jpeg",
+    "url": "/articulo/article?brand=accesorios&mod=Pfija"
+  },
+  {
+    "nombre": "Persiana movil",
+    "imagen": "img/accesorios/Pmovil.jpeg",
+    "url": "/articulo/article?brand=accesorios&mod=Pmovil"
+  },
+  {
+    "nombre": "Rejilla Globo - acero",
+    "imagen": "img/accesorios/glb_a.jfif",
+    "url": "/articulo/article?brand=accesorios&mod=glb_a"
+  },
+  {
+    "nombre": "Rejilla Globo - blanco",
+    "imagen": "img/accesorios/glb_b.jpeg",
+    "url": "/articulo/article?brand=accesorios&mod=glb_a"
+  },
+  {
+    "nombre": "Rejilla Globo - Negro",
+    "imagen": "img/accesorios/glb_n.jfif",
+    "url": "/articulo/article?brand=accesorios&mod=glb_n"
+  }
+]

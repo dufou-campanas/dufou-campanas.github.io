@@ -1,0 +1,117 @@
+[
+  {
+    "nombre": "Yacuy",
+    "imagen": "img/tst/Yacuy.png",
+    "url": "/articulo/article?brand=tst&mod=yacuy"
+  },
+  {
+    "nombre": "Atuel",
+    "imagen": "img/tst/atuel.png",
+    "url": "/articulo/article?brand=tst&mod=atuel"
+  },
+  {
+    "nombre": "Azara",
+    "imagen": "img/tst/azara.png",
+    "url": "/articulo/article?brand=tst&mod=azara"
+  },
+  {
+    "nombre": "Chalten",
+    "imagen": "img/tst/chalten.png",
+    "url": "/articulo/article?brand=tst&mod=chalten"
+  },
+  {
+    "nombre": "Circular",
+    "imagen": "img/tst/circular.png",
+    "url": "/articulo/article?brand=tst&mod=circular"
+  },
+  {
+    "nombre": "Colhue",
+    "imagen": "img/tst/colhue.png",
+    "url": "/articulo/article?brand=tst&mod=colhue"
+  },
+  {
+    "nombre": "Diamante",
+    "imagen": "img/tst/diamante.png",
+    "url": "/articulo/article?brand=tst&mod=diamante"
+  },
+  {
+    "nombre": "Espejo",
+    "imagen": "img/tst/espejo.png",
+    "url": "/articulo/article?brand=tst&mod=espejo"
+  },
+  {
+    "nombre": "Estratto A",
+    "imagen": "img/tst/estratto_a.png",
+    "url": "/articulo/article?brand=tst&mod=estratto_a"
+  },
+  {
+    "nombre": "Estratto B",
+    "imagen": "img/tst/estratto_b.png",
+    "url": "/articulo/article?brand=tst&mod=estratto_b"
+  },
+  {
+    "nombre": "Extensible",
+    "imagen": "img/tst/extensible.png",
+    "url": "/articulo/article?brand=tst&mod=extensible"
+  },
+  {
+    "nombre": "Ibera",
+    "imagen": "img/tst/ibera.png",
+    "url": "/articulo/article?brand=tst&mod=ibera"
+  },
+  {
+    "nombre": "Kuba",
+    "imagen": "img/tst/kuba.png",
+    "url": "/articulo/article?brand=tst&mod=kuba"
+  },
+  {
+    "nombre": "Lacar",
+    "imagen": "img/tst/lacar.png",
+    "url": "/articulo/article?brand=tst&mod=lacar"
+  },
+  {
+    "nombre": "Lanin",
+    "imagen": "img/tst/lanin.png",
+    "url": "/articulo/article?brand=tst&mod=lanin"
+  },
+  {
+    "nombre": "Lauda",
+    "imagen": "img/tst/lauda.png",
+    "url": "/articulo/article?brand=tst&mod=lauda"
+  },
+  {
+    "nombre": "Nihuil xs",
+    "imagen": "img/tst/nihuil_xs.png",
+    "url": "/articulo/article?brand=tst&mod=nihuil_xs"
+  },
+  {
+    "nombre": "Nihuil",
+    "imagen": "img/tst/nihuil.png",
+    "url": "/articulo/article?brand=tst&mod=nihuil"
+  },
+  {
+    "nombre": "Puelo",
+    "imagen": "img/tst/puelo.png",
+    "url": "/articulo/article?brand=tst&mod=puelo"
+  },
+  {
+    "nombre": "Tamel",
+    "imagen": "img/tst/tamel.png",
+    "url": "/articulo/article?brand=tst&mod=tamel"
+  },
+  {
+    "nombre": "Traful",
+    "imagen": "img/tst/traful.png",
+    "url": "/articulo/article?brand=tst&mod=traful"
+  },
+  {
+    "nombre": "Wayra",
+    "imagen": "img/tst/wayra.png",
+    "url": "/articulo/article?brand=tst&mod=wayra"
+  },
+  {
+    "nombre": "Isla LT",
+    "imagen": "img/tst/IslaLT.jpg",
+    "url": "/articulo/article?brand=tst&mod=Isla_LT"
+  }
+]

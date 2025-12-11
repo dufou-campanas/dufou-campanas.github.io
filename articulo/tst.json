@@ -1,0 +1,437 @@
+[
+  {
+    "modelo": "yacuy",
+    "titulo": "Campana Yacuy",
+    "banner": "/img/tst/car/yacuy/1.jpg",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/yacuy/1.jpg",
+      "/img/tst/car/yacuy/2.jpg"
+    ],
+    "croquis": "/img/tst/det/yacuy.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Comando Touch" },
+      { "icono": "/img/Generic/led.svg", "texto": "Iluminación LED" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "nihuil",
+    "titulo": "Campana Nihuil",
+    "banner": "/img/tst/car/nihuil/1.png",
+    "callback": "/tst",
+    "descripcion": "Disponible en 60, 75 y 90cm de ancho",
+    "imagenes": [
+      "/img/tst/car/nihuil/1.png",
+      "/img/tst/car/nihuil/2.png",
+      "/img/tst/car/nihuil/3.png"
+    ],
+    "croquis": "/img/tst/det/nihuil.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/pwr.png", "texto": "Comando Pulsante" },
+      { "icono": "/img/Generic/led.svg", "texto": "Iluminación LED" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "lanin",
+    "titulo": "Campana Lanin",
+    "banner": "/img/tst/car/lanin/1.png",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 60, 75 y 90cm de ancho</p><p>Disponible modelo especial color <strong>BLANCO</strong>, de 60cm</p>",
+    "imagenes": [
+      "/img/tst/car/lanin/1.png",
+      "/img/tst/car/lanin/2.png",
+      "/img/tst/car/lanin/3.png"
+    ],
+    "croquis": "/img/tst/det/lanin.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/pwr.png", "texto": "Comando Pulsante" },
+      { "icono": "/img/Generic/led.svg", "texto": "Iluminación LED" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 Velocidades de motor" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "colhue",
+    "titulo": "Campana Colhue",
+    "banner": "/img/tst/car/colhue/1.png",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/colhue/1.png",
+      "/img/tst/car/colhue/2.png",
+      "/img/tst/car/colhue/3.png"
+    ],
+    "croquis": "/img/tst/det/colhue.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Control táctil" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/thermo.png", "texto": "Sensor de temperatura" },
+      { "icono": "/img/Generic/timer.svg", "texto": "Timer programable" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "azara",
+    "titulo": "Campana Azara",
+    "banner": "/img/tst/car/azara/1.png",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/azara/1.png",
+      "/img/tst/car/azara/2.png",
+      "/img/tst/car/azara/3.png"
+    ],
+    "croquis": "/img/tst/det/azara.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Control táctil" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/timer.svg", "texto": "Timer programable" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "espejo",
+    "titulo": "Campana espejo",
+    "banner": "/img/tst/car/espejo/1.png",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/espejo/1.png",
+      "/img/tst/car/espejo/2.png",
+      "/img/tst/car/espejo/3.png"
+    ],
+    "croquis": "/img/tst/det/espejo.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Control táctil" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/timer.svg", "texto": "Timer programable" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "diamante",
+    "titulo": "Campana Diamante",
+    "banner": "/img/tst/car/diamante/1.png",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/diamante/1.png",
+      "/img/tst/car/diamante/2.png",
+      "/img/tst/car/diamante/3.png"
+    ],
+    "croquis": "/img/tst/det/diamante.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Control táctil" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "lacar",
+    "titulo": "Campana Lacar",
+    "banner": "/img/tst/car/lacar/1.png",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/lacar/1.png",
+      "/img/tst/car/lacar/2.png",
+      "/img/tst/car/lacar/3.png"
+    ],
+    "croquis": "/img/tst/det/lacar.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Control táctil" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "extensible",
+    "titulo": "Campana Extensible",
+    "banner": "/img/tst/car/extensible/1.jpg",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/extensible/2.jpg",
+      "/img/tst/car/extensible/1.jpg",
+      "/img/tst/car/extensible/3.jpg"
+    ],
+    "croquis": "/img/tst/det/extensible.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Control táctil" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "Isla_LT",
+    "titulo": "Campana Isla LT",
+    "banner": "/img/tst/det/Isla_LT.jpg",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 60 y 90cm de ancho</p><p>Modelo formato ISLA</p>",
+    "imagenes": [
+      "/img/tst/car/Isla_LT/1.jpg",
+      "/img/tst/car/Isla_LT/2.jpg"
+    ],
+    "croquis": "/img/tst/det/Isla_LT.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Control táctil" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "estratto_a",
+    "titulo": "Purificador estratto (A)",
+    "banner": "/img/tst/det/estratto_a.jpg",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 60cm de ancho</p><p>Purificador formato tipo SPAR tradicional</p><p>Ideal para espacios reducidos y colocaciones dentro de mueble</p>",
+    "imagenes": [
+      "/img/tst/car/estratto_a/1.jpg",
+      "/img/tst/car/estratto_a/2.jpg"
+    ],
+    "croquis": "/img/tst/det/estratto_a.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/pwr.png", "texto": "Comando Pulsante" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 260 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "estratto_b",
+    "titulo": "Purificador estratto (B)",
+    "banner": "/img/tst/det/estratto_b.jpg",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 60cm de ancho</p><p>Purificador formato tipo SPAR tradicional</p><p>Ideal para espacios reducidos y colocaciones dentro de mueble</p>",
+    "imagenes": [
+      "/img/tst/car/estratto_b/1.jpg",
+      "/img/tst/car/estratto_b/2.jpg"
+    ],
+    "croquis": "/img/tst/det/estratto_b.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/pwr.png", "texto": "Comando Pulsante" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 260 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "wayra",
+    "titulo": "Campana Wayra",
+    "banner": "/img/tst/det/wayra.png",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 53cm de ancho</p>",
+    "imagenes": [
+      "/img/tst/car/wayra/1.png",
+      "/img/tst/car/wayra/2.png",
+      "/img/tst/car/wayra/3.png"
+    ],
+    "croquis": "/img/tst/det/wayra.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/pwr.png", "texto": "Comando Pulsante" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "traful",
+    "titulo": "Campana Traful",
+    "banner": "/img/tst/det/traful.png",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 60, 75 y 90cm de ancho</p>",
+    "imagenes": [
+      "/img/tst/car/traful/1.png",
+      "/img/tst/car/traful/2.png",
+      "/img/tst/car/traful/3.png"
+    ],
+    "croquis": "/img/tst/det/traful.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/pwr.png", "texto": "Comando Pulsante" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "puelo",
+    "titulo": "Campana Puelo",
+    "banner": "/img/tst/det/puelo.png",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 60, 75 y 90cm de ancho</p>",
+    "imagenes": [
+      "/img/tst/car/puelo/1.png",
+      "/img/tst/car/puelo/2.png",
+      "/img/tst/car/puelo/3.png"
+    ],
+    "croquis": "/img/tst/det/puelo.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Control táctil" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "atuel",
+    "titulo": "Campana Atuel",
+    "banner": "/img/tst/det/atuel.png",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 60, 75 y 90cm de ancho</p>",
+    "imagenes": [
+      "/img/tst/car/atuel/1.png",
+      "/img/tst/car/atuel/2.png",
+      "/img/tst/car/atuel/3.png"
+    ],
+    "croquis": "/img/tst/det/atuel.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/pwr.png", "texto": "Comando deslizante" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "1 velocidad" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 320 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "chalten",
+    "titulo": "Campana Chalten",
+    "banner": "/img/tst/det/chalten.png",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 90 y 120cm de ancho</p>",
+    "imagenes": [
+      "/img/tst/car/chalten/1.png",
+      "/img/tst/car/chalten/2.png",
+      "/img/tst/car/chalten/3.png"
+    ],
+    "croquis": "/img/tst/det/chalten.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/pwr.png", "texto": "Comando digital" },
+      { "icono": "/img/Generic/timer.svg", "texto": "Timer programable" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "nihuil_xs",
+    "titulo": "Campana Nihuil XS",
+    "banner": "/img/tst/det/nihuil_xs.jpg",
+    "callback": "/tst",
+    "descripcion": "<p>Modelo especial de 50cm de ancho</p>",
+    "imagenes": [
+      "/img/tst/car/nihuil_xs/1.jpg",
+      "/img/tst/car/nihuil_xs/2.jpg",
+      "/img/tst/car/nihuil_xs/3.jpg"
+    ],
+    "croquis": "/img/tst/det/nihuil_xs.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/pwr.png", "texto": "Comando Pulsante" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "tamel",
+    "titulo": "Campana Tamel",
+    "banner": "/img/tst/det/tamel.png",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 60, 75 y 90cm de ancho</p>",
+    "imagenes": [
+      "/img/tst/car/tamel/1.png",
+      "/img/tst/car/tamel/2.png",
+      "/img/tst/car/tamel/3.png"
+    ],
+    "croquis": "/img/tst/det/tamel.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Control táctil" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "lauda",
+    "titulo": "Campana Lauda",
+    "banner": "/img/tst/det/lauda.jpg",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 60 y 90cm de ancho</p><p>el modelo Lauda cuenta con comando manos libres, para que puedas encender, cambiar velocidades y apagar tu campana sin siquiera tocarla...</p>",
+    "imagenes": [
+      "/img/tst/car/lauda/1.jpg",
+      "/img/tst/car/lauda/2.jpg"
+    ],
+    "croquis": "/img/tst/det/lauda.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Control táctil" },
+      { "icono": "/img/Generic/wave.svg", "texto": "Comando manos libres" },
+      { "icono": "/img/Generic/timer.svg", "texto": "Timer" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 1080 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "kuba",
+    "titulo": "Campana Kuba",
+    "banner": "/img/tst/det/kuba.png",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 60 y 90cm de ancho</p>",
+    "imagenes": [
+      "/img/tst/car/kuba/1.png",
+      "/img/tst/car/kuba/2.png",
+      "/img/tst/car/kuba/3.png"
+    ],
+    "croquis": "/img/tst/det/kuba.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/touch.svg", "texto": "Control táctil" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  },
+  {
+    "modelo": "circular",
+    "titulo": "Campana circular",
+    "banner": "/img/tst/det/circular.png",
+    "callback": "/tst",
+    "descripcion": "<p>Disponible en 60cm de ancho</p>",
+    "imagenes": [
+      "/img/tst/car/circular/1.png",
+      "/img/tst/car/circular/2.png",
+      "/img/tst/car/circular/3.png"
+    ],
+    "croquis": "/img/tst/det/circular.svg",
+    "especificaciones": [
+      { "icono": "/img/Generic/pwr.png", "texto": "Comando Pulsante" },
+      { "icono": "/img/Generic/led.svg", "texto": "Luz LED blanca" },
+      { "icono": "/img/Generic/velo.png", "texto": "3 velocidades" },
+      { "icono": "/img/Generic/velo.png", "texto": "Extraccion de 800 m³/h" },
+      { "icono": "/img/Generic/warr.png", "texto": "2 años de garantía" }
+    ]
+  }
+]

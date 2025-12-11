@@ -1,0 +1,253 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #111;
+  color: #eee;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 1.5rem 0;
+}
+/*****************************/
+#galeria {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  padding: 1rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.galeria img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
+/* Fondo oscuro para la ampliación */
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+/* Imagen ampliada */
+.lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  animation: zoomIn 0.25s ease;
+}
+
+@keyframes zoomIn {
+  from { transform: scale(0.8); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+/*****************************/
+.producto {
+  background: #222;
+  border-radius: 12px;
+  padding: 1rem;
+  text-decoration: none;
+  color: #eee;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  overflow: hidden;
+}
+
+.producto:hover {
+  transform: scale(1.25);
+  box-shadow: 0 0 10px #0005;
+}
+
+.producto img {
+  background-color: white;
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+  display: block;
+}
+
+.producto span {
+  display: block;
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
+
+.btn-whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 50%;
+  padding: 10px;
+  box-shadow: 0 0 10px #0007;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  z-index: 1000;
+}
+
+.btn-whatsapp:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px #0009;
+  color:#008000
+}
+
+.btn-whatsapp img {
+  width: 40px;
+  height: 40px;
+  display: block;
+}
+
+.carousel {
+  position: relative;
+  max-width: 900px;
+  margin: 2rem auto;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #0006;
+}
+
+.carousel-track {
+  display: flex;
+  transition: transform 0.4s ease-in-out;
+}
+
+.carousel img {
+  width: 100%;
+  flex-shrink: 0;
+  object-fit: cover;
+  height: 400px;
+}
+
+.carousel button {
+  background: none;
+  border: none;
+  color: #323232;
+  font-size: 2rem;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 0;
+  z-index: 2;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.slide {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff; /* o #f8f8f8 */
+  flex-shrink: 0;
+}
+
+.slide img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain; /* NUNCA zoom */
+}
+
+.carousel .prev { left: 10px; }
+.carousel .next { right: 10px; }
+
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.5rem;
+  background: #000;
+  color: #fff;
+  padding: 1.5rem 1rem;
+  border-bottom: 1px solid #222;
+}
+
+.logo {
+  height: 60px;
+  width: auto;
+  transition: transform 0.2s ease;
+}
+
+.logo:hover {
+  transform: scale(1.05);
+}
+
+/* 
+.descripcion {
+  max-width: 800px;
+  margin: 2rem auto;
+  font-size: 1.1rem;
+  color: #333;
+  line-height: 1.6;
+  text-align: center;
+  
+  border-radius: 12px;
+  justify-content: space-between;
+  background: #000;
+  color: #fff;
+  padding: 2rem 1rem;
+  border-top: 1px solid #222;
+  border-bottom: 1px solid #222;
+} */
+ .descripcion {
+  max-width: 800px;
+  margin: 2rem auto;
+  font-size: 1.1rem;
+  color: #333;
+  background: #000;
+  color: #fff;
+  line-height: 1.6;
+  text-align: left;
+  padding: 0 1.5rem;
+
+  border-bottom: 1px solid #222;
+  border-top: 1px solid #222;
+  justify-content: space-between;
+  border-radius: 12px;
+}
+
+.descripcion p {
+  margin-bottom: 1rem;
+}
+
+.descripcion strong {
+  color: #FFF;
+}
+
+.descripcion em {
+  color: #666;
+}
+
+.descripcion ul {
+  margin-left: 1.5rem;
+  list-style: disc;
+}
+
+.gbtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  background-color: #000000;
+  color: white;
+  font-weight: 600;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  padding: 0.8rem 1.2rem;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.2s ease;
+  text-decoration: none;
+}
+
+.gbtn:hover {
+  transform: scale(1.05);
+}

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dufou Ventilacion</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+  <a href="/index.html" class="logo-link">
+    <img src="/img/dufou.png" class="logo">
+  </a>
+  </header>
+  <h1>Accesorios Gastronomicos</h1>
+
+  <div id="galeria"></div>
+
+  <script>
+    fetch("accesorios_gastro.json")
+      .then(res => res.json())
+      .then(productos => {
+        const galeria = document.getElementById("galeria");
+        productos.forEach(p => {
+          const item = document.createElement("a");
+          //item.href = p.url;
+          item.className = "producto";
+          item.innerHTML = `
+            <img src="${p.imagen}" alt="${p.nombre}" class="zoomable">
+            <span>${p.nombre}</span>
+          `;
+          galeria.appendChild(item);
+        });
+      });
+  </script>
+
+<a href="https://wa.me/5491138220688?text=Hola!" 
+ target="_blank" 
+ class="btn-whatsapp" 
+ title="Chatear por WhatsApp">
+<img src="/img/Generic/wpp.svg">
+</a>
+
+<script>
+    // --- Lightbox (ampliar imagen) ---
+const lightbox = document.getElementById("lightbox");
+const lightboxImg = document.getElementById("lightbox-img");
+
+// al hacer click en una imagen zoomable
+document.querySelectorAll(".zoomable").forEach(img => {
+  img.addEventListener("click", () => {
+    lightboxImg.src = img.src;
+    lightbox.style.display = "flex";
+  });
+});
+
+// cerrar al hacer click en el fondo
+lightbox.addEventListener("click", () => {
+  lightbox.style.display = "none";
+});
+
+</script>
+
+<div id="lightbox" class="lightbox">
+  <img id="lightbox-img" src="" alt="Ampliación">
+</div>
+
+</body>
+</html>
