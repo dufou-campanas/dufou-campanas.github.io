@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "CF",
+    "imagen": "/img/tst/car/CF/1.jpg",
+    "url": "/articulo/article?brand=cocinas&mod=CF"
+  },
+  {
+    "nombre": "CF Vidrio",
+    "imagen": "/img/tst/car/CF_VIDRIO/1.jpg",
+    "url": "/articulo/article?brand=cocinas&mod=CF_VIDRIO"
+  },
+  {
+    "nombre": "VESTA SOLID STEEL",
+    "imagen": "/img/tst/car/VESTA/SOLID_STEEL/1.jpg",
+    "url": "/articulo/article?brand=cocinas&mod=VESTA_SOLID_STEEL"
+  },
+  {
+    "nombre": "VESTA STEEL",
+    "imagen": "/img/tst/car/VESTA/STEEL/1.jpg",
+    "url": "/articulo/article?brand=cocinas&mod=VESTA_STEEL"
+  },
+  {
+    "nombre": "VESTA BLACK",
+    "imagen": "/img/tst/car/VESTA/BLACK/1.jpg",
+    "url": "/articulo/article?brand=cocinas&mod=VESTA_BLACK"
+  }
+]

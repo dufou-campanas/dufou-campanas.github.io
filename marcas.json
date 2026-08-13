@@ -28,5 +28,10 @@
     "nombre": "Accesorios Gastronomicos",
     "imagen": "img/logos/accesorios_gastro.jpeg",
     "url": "./accesorios_gastro"
+  },
+  {
+    "nombre": "Cocinas",
+    "imagen": "img/tst/car/CF/1.jpg",
+    "url": "./cocinas"
   }
 ]

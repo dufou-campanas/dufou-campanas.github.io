@@ -1,0 +1,80 @@
+[
+  {
+    "modelo": "CF",
+    "titulo": "Cocina CF",
+    "banner": "/img/tst/CF.png",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/CF/1.jpg",
+      "/img/tst/car/CF/2.jpg"
+    ],
+    "descripcion": "<table><tr><td>Valvula de seguridad en horno.</td></tr><tr><td>Rejilla de fundicion esmaltadas.</td></tr><tr><td>Piso con tejuelas refractarias.</td></tr><tr><td>Pirometro Numerado indicador de temperatura.</td></tr><tr><td>Cal/H: 2800 hornalla | 7000 horno</td></tr><tr><td>Ancho: 550 mm.</td></tr></table>",
+    "especificaciones": [
+      { "icono": "/img/Generic/warr.png", "texto": "1 año de garantía" }
+    ]
+  },
+  {
+    "modelo": "CF_VIDRIO",
+    "titulo": "Cocina CF (puerta vidrio)",
+    "banner": "/img/tst/CF_VIDRIO.png",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/CF_VIDRIO/1.jpg",
+      "/img/tst/car/CF_VIDRIO/2.jpg"
+    ],
+    "descripcion": "<table><tr><td>Puerta de vidrio templado negro.</td></tr><tr><td>Valvula de seguridad en horno.</td></tr><tr><td>Rejilla de fundicion esmaltadas.</td></tr><tr><td>Piso con tejuelas refractarias.</td></tr><tr><td>Pirometro indicador de temperatura.</td></tr><tr><td>Cal/H: 2800 hornalla | 7000 horno</td></tr><tr><td>Ancho: 550 mm.</td></tr></table>",
+    "especificaciones": [
+      { "icono": "/img/Generic/warr.png", "texto": "1 año de garantía" }
+    ]
+  },
+  {
+    "modelo": "VESTA_SOLID_STEEL",
+    "titulo": "VESTA SOLID STEEL",
+    "banner": "/img/tst/VESTA_SOLID.png",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/VESTA/SOLID_STEEL/1.jpg",
+      "/img/tst/car/VESTA/SOLID_STEEL/2.jpg",
+      "/img/tst/car/VESTA/SOLID_STEEL/3.jpg",
+      "/img/tst/car/VESTA/SOLID_STEEL/4.jpg"
+    ],
+    "descripcion": "<ul><li>Puerta de vidrio templado.</li>  <li>Válvula de seguridad en horno.</li>  <li>Rejilla de fundición esmaltadas.</li>  <li>Piso de horno con tejuelas refractarias.</li>  <li>Indicador de temperatura.</li>  <li>Conexíon a gas ø 1/2”</li>  <li>Cal/H:</li>    <ul>      <li> 1 Quemador de 775</li>      <li> 2 Quemadores de 3390</li>      <li> 1 Quemador de 2236</li>      <li> Horno de 7000</li>    </ul>  <li>Ancho: 60 0 90 cm</li>  <li>Incluye: Base regulable.</li></ul>",
+    "especificaciones": [
+      { "icono": "/img/Generic/warr.png", "texto": "1 año de garantía" }
+    ]
+  },
+  {
+    "modelo": "VESTA_STEEL",
+    "titulo": "VESTA  STEEL",
+    "banner": "/img/tst/VESTA_STEEL.png",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/VESTA/STEEL/1.jpg",
+      "/img/tst/car/VESTA/STEEL/2.jpg",
+      "/img/tst/car/VESTA/STEEL/3.jpg",
+      "/img/tst/car/VESTA/STEEL/4.jpg"
+    ],
+    "descripcion": "<ul>  <li>Válvula de seguridad en horno.</li>  <li>Rejilla de fundición esmaltadas.</li>  <li>Piso de horno con tejuelas refractarias.</li>  <li>Indicador de temperatura numerado.</li>  <li>Conexíon a gas ø 1/2”</li>  <li>Cal/H:</li>    <ul>      <li> 1 Quemador de 775</li>      <li> 2 Quemadores de 3390</li>      <li> 1 Quemador de 2236</li>      <li> Horno de 7000</li>    </ul>  <li>Ancho: 60 0 90 cm</li>  <li>Incluye: Base regulable.</li></ul>",
+    "especificaciones": [
+      { "icono": "/img/Generic/warr.png", "texto": "1 año de garantía" }
+    ]
+  },
+  {
+    "modelo": "VESTA_BLACK",
+    "titulo": "VESTA  BLACK",
+    "banner": "/img/tst/VESTA_BLACK.png",
+    "callback": "/tst",
+    "imagenes": [
+      "/img/tst/car/VESTA/BLACK/1.jpg",
+      "/img/tst/car/VESTA/BLACK/2.jpg",
+      "/img/tst/car/VESTA/BLACK/3.jpg",
+      "/img/tst/car/VESTA/BLACK/4.jpg",
+      "/img/tst/car/VESTA/BLACK/5.jpg",
+      "/img/tst/car/VESTA/BLACK/6.jpg"
+    ],
+    "descripcion": "<ul>  <li>Válvula de seguridad en horno.</li>  <li>Rejilla de fundición esmaltadas.</li><li>Placa superior en hornallas de vidrio templado.</li>  <li>Piso de horno con tejuelas refractarias.</li>  <li>Indicador de temperatura numerado.</li>  <li>Conexíon a gas ø 1/2”</li>  <li>Cal/H:</li>    <ul>      <li> 1 Quemador de 775</li>      <li> 2 Quemadores de 3390</li>      <li> 1 Quemador de 2236</li>      <li> Horno de 7000</li>    </ul>  <li>Ancho: 60 0 90 cm</li>  <li>Incluye: Base regulable.</li></ul>",
+    "especificaciones": [
+      { "icono": "/img/Generic/warr.png", "texto": "1 año de garantía" }
+    ]
+  }
+]
